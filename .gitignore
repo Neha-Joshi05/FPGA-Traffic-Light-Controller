@@ -1,0 +1,7 @@
+node_modules/
+web-ui/node_modules/
+web-ui/dist/
+simulation/traffic_sim.out
+*.vcd
+.DS_Store
+*.o
