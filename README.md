@@ -96,7 +96,7 @@ gtkwave simulation/traffic.vcd
 ```
 
 ### Expected Output
-
+```
 === FPGA Traffic Light Controller Simulation ===
 
 Reset released — Normal cycle starting
@@ -108,7 +108,7 @@ Emergency cleared — resuming
 Night mode ON
 Night mode OFF — resuming normal
 === Simulation Complete — No conflicts detected ✅ ===
-
+```
 ---
 
 ## Web Simulator
