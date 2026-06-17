@@ -51,6 +51,8 @@ FPGA-Traffic-Light-Controller/
 
 ## FSM State Diagram
 
+```
+
 ┌─────────────────────────────────────┐
      ▼                                     │
   NS_GREEN ──(veh_ew | ped)──► NS_YELLOW   │
@@ -66,7 +68,7 @@ FPGA-Traffic-Light-Controller/
      └──────────────────────┘   ALL_RED2   │
                                     │      │
                                     └──────┘
-
+```
 EMERGENCY ──► ALL_RED (hold until cleared)
 NIGHT ──► Amber flash alternating NS/EW
 
